@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 const AddCard=()=>{
     return(
@@ -7,7 +7,7 @@ const AddCard=()=>{
                 <div className=" text-white bg-green-700 relative flex flex-col p-4">
                     <div className="bg-black absolute top-0 right-0 p-1 px-3">AD</div>
                     <p className="font-bold text-nowrap uppercase mt-8">every season starts at</p>
-                    <p className="text-4xl font-bold">DICK'S</p>
+                    <p className="text-4xl font-bold">DICK&apos;S</p>
                     <p className="text-xl font-bold uppercase mb-8">sporting goods</p>
                 </div>
                 <div className="flex flex-col my-4 p-4">
